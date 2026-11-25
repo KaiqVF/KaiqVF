@@ -13,7 +13,7 @@ Ensino Médio com Habilitação Profissional de Técnico em Informática para In
 
 Instituição: Etec de Santa Isabel
 
-<h3>⚙️ Ferramentas </h3>  
+<h3>Skills </h3>  
 <div style="display inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
